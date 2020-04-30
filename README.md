@@ -5,10 +5,14 @@ ECE 505/513 - Undergraduate Thesis
     A mini fridge using peltier module that utilizes on-off feedback control
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/dnzltajo/MiniFridge-uPython/blob/master/images/Picture1.png">
+  <img width="600" height="375" src="https://github.com/dnzltajo/MiniFridge-uPython/blob/master/images/Picture1.png">
 </p>
 
 ## Function
+
+<p align="center">
+  <img width="500" height="350" src="https://github.com/dnzltajo/MiniFridge-uPython/blob/master/images/fun.jpg">
+</p>  
 
 - Inputs
 
