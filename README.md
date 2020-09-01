@@ -8,6 +8,11 @@ ECE 505/513 - Undergraduate Thesis
   <img width="600" height="375" src="https://github.com/dnzltajo/MiniFridge-uPython/blob/master/images/Picture1.png">
 </p>
 
+<p align="center">
+  <img width="400" height="375" src="https://github.com/dnzltajo/MiniFridge-uPython/blob/master/images/1EE6354A-01FB-4E0E-AEE1-63CAF17A511D.JPG">
+</p>
+
+
 ## Function
 
 <p align="center">
