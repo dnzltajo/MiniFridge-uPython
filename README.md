@@ -9,14 +9,14 @@ ECE 505/513 - Undergraduate Thesis
 </p>
 
 <p align="center">
-  <img width="400" height="375" src="https://github.com/dnzltajo/MiniFridge-uPython/blob/master/images/1EE6354A-01FB-4E0E-AEE1-63CAF17A511D.JPG">
+  <img width="640" height="480" src="https://github.com/dnzltajo/MiniFridge-uPython/blob/master/images/thesis-ckt2.bmp">
 </p>
 
 
 ## Function
 
 <p align="center">
-  <img width="500" height="350" src="https://github.com/dnzltajo/MiniFridge-uPython/blob/master/images/fun.jpg">
+  <img width="640" height="480" src="https://github.com/dnzltajo/MiniFridge-uPython/blob/master/images/fun.jpg">
 </p>  
 
 - Inputs
